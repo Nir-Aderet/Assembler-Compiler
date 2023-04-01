@@ -1,3 +1,3 @@
 # Assembler-Compiler writen in C
 
-Full explanation is file "Compiler explanation - Hebrew"
+Full explanation is in file "Compiler explanation - Hebrew"
