@@ -9,4 +9,4 @@ The compiler generates four output files:
 - The ".am" file which contains the source code after the pre-assembler phase, where macros are handled.
 - The ".object" file which includes the machine code and has a unique format.
 - The "externals" file which is created if there is an extern command. This file provides information on all the addresses of external-info-words.
-- The "entries" file is generated if there is an entry command. It contains information on an entry assigned sign.
+- The "entries" file is generated if there is an entry command. It contains information on all entry assigned signs.
