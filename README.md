@@ -1,7 +1,9 @@
 # Assembler-Compiler writen in C - Linux Environment
 
 Full explanation is in the file "Compiler explanation - Hebrew".
+
 Programming Language: C
+
 Operating System: Linux - Ubuntu
 
 The compiler generates four output files:
@@ -17,12 +19,17 @@ Each word in the computer is 20 bits long, and the length of each machine comman
 Key Contributions:
 
 Design and Implementation: Led the design and implementation of the assembler compiler, ensuring compatibility with the target architecture and adherence to assembly language standards.
+
 Line Type Detection: Implemented a robust line type detection mechanism, allowing the compiler to differentiate between various types of assembly code lines, facilitating accurate parsing and analysis.
+
 Macro Execution: Developed a macro processing system, enabling the compiler to expand macros during assembly, reducing code redundancy and enhancing readability.
+
 Error Analysis: Integrated error-checking routines to identify syntax errors, coding errors, and inconsistencies within the assembly code. Generated detailed analysis reports to assist developers in debugging and improving code quality.
+
 Testing and Validation: Rigorously tested the compiler with a variety of assembly programs, ensuring its reliability and correctness. Conducted comprehensive test suites to detect and rectify errors.
 
 Results and Impact:
 
 Error Detection: By identifying and reporting syntax and coding errors, the compiler contributed to improved code quality and reduced debugging efforts.
+
 Enhanced Developer Experience: Developers benefited from the tool's ability to execute macros and provide informative analysis reports, leading to more efficient code development.
